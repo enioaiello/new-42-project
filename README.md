@@ -7,7 +7,10 @@ L'essentiel pour débuter un nouveau projet chez 42 Paris (piscine).
 Vous avez **deux méthodes** pour utiliser le modèle.
 
 > [!IMPORTANT]
-> Ce projet n'a pas pour but d'être utilisé :\ - Pendant les examens\ - Pendant les rushs\ **Vous utilisez ce contenu à vos risques !**
+> Ce projet n'a pas pour but d'être utilisé :
+> - Pendant les examens
+> - Pendant les rushs
+> **Vous utilisez ce contenu à vos risques !**
 
 1. [Méthode automatique](#automatique)
 2. [Méthode manuelle](#manuelle)
