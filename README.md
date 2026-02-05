@@ -49,7 +49,7 @@ unzip ~/Downloads/new-42-project-manual.zip
 3. Déplacez le contenu du dossier dans votre projet
 
 ```bash
-mv -r ~/Downloads/new-42-project-manual/* # chemin de votre projet
+mv -r ~/Downloads/new-42-project-manual/* #chemin-de-votre-projet#
 ```
 
 4. May the force be with you!
