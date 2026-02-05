@@ -9,7 +9,8 @@ Vous avez **deux méthodes** pour utiliser le modèle.
 > [!IMPORTANT]
 > Ce projet n'a pas pour but d'être utilisé :
 > - Pendant les examens
-> - Pendant les rushs\
+> - Pendant les rushs
+> 
 > **Vous utilisez ce contenu à vos risques !**
 
 1. [Méthode automatique](#automatique)
