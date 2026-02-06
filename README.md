@@ -7,7 +7,7 @@
 ### Clone
 
 ```bash
-git clone [project@url.git] enio
+git clone [project@url.git] [your-name]
 cd enio/
 ```
 
@@ -38,5 +38,8 @@ cc */*.c -W -W -W -o exo
 
 ## Contact
 
+<!-- Exemples
 - [Portfolio](https://enioaiello.fr)
 - [Mail](mailto:enio.aiello@learner.42.tech)
+- **Discord :** @enioaiello
+-->
